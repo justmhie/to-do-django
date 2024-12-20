@@ -69,4 +69,4 @@ You can also manage your to-do list directly from the **Django Admin Panel**. To
 
 ## Deployment on AWS Lightsail
 
-For instructions on how to deploy this app to **AWS Lightsail**, check out my [Dev.to blog](https://dev.to/your_blog_link).
+For instructions on how to deploy this app to **AWS Lightsail**, check out my [Dev.to blog](https://dev.to/alyssa_mhie/deploy-a-django-app-from-github-on-aws-lightsail-using-the-bitnami-django-stack-4124).
